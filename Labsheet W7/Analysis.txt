@@ -1,0 +1,4 @@
+Sum      165
+Average  33
+Smallest 1
+Largest  81
